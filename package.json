@@ -1,10 +1,10 @@
 {
-  "name": "jserver",
+  "name": "ReactQuizQuestionsServer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-	"start": "node index.js",
+    "start": "node index.js",
     "server": "json-server --watch cities.json --port 8000 --delay 500"
   },
   "author": "",
